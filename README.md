@@ -21,6 +21,13 @@ Wait patiently when it's red, and react quickly when it's green!
 🛠 How it Works:
 The game randomly chooses green/red light (green is more likely).
 
+
+Goal:
+Reach Step 10 before time runs out and survive the game!
+
+
+
+
 A background thread listens for your input (Enter).
 
 You must press Enter within 3 seconds of green light or lose the game.
